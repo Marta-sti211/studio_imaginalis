@@ -10,7 +10,7 @@ function Work() {
                     <ul>
                         <li>
                             <a href="https://www.japsambooks.nl/collections/verwacht/products/mothers-milk">
-                                JapSam Books - <i>Mothers’s Milk</i>, artist book by Marie Ilse Bourlanges. ‘Introduction’. Author.
+                                JapSam Books - <i><c>Mothers’s Milk</c></i>, artist book by Marie Ilse Bourlanges. ‘Introduction’. Author.
                             </a>
                         </li>
                         <li>
@@ -20,14 +20,14 @@ function Work() {
                         </li>
                         <li>
                             <a href="https://thedirectory.bigcartel.com/product/the-directory">
-                                <c>The Directory:</c> <i>Manufica</i>. Author.
+                                The Directory: <i><c>Manufica</c></i>. Author.
                             </a>
                         </li>
                         <li>
                             <a href="https://comunicazionisociali.vitaepensiero.it/scheda-articolo_digital/noemi-mena-montes-marta-pagliuca-pelacani-mariia-shaidrova/using-collaborative-exhibition-making-to-engage-with-the-representation-of-nigerian-women-in-palermo-iloi-as-a-case-studyin-the-application-of-a-participatory-collage-methodology-001200_2022_0001_0075-371815.html
     ">
-                                <c>Comunicazioni Sociali:</c> Journal of Media, Performing Arts and Cultural Studies. 
-                                <i>Migrations / Mediations, Promoting Transcultural Dialogue through Media, 
+                                Comunicazioni Sociali: Journal of Media, Performing Arts and Cultural Studies. 
+                                <i><c>Migrations / Mediations</c>, Promoting Transcultural Dialogue through Media, 
                                 Arts and Culture</i> edited by Pierluigi Musarò, Nikos Papastergiadis, Laura Peja. 
                                 Using Collaborative Exhibition-Making to Engage with the Representation of Nigerian Women in Palermo:
                                 Iloi as a Case Study in the Application of a Participatory ‘Collage Methodology’, p. 75 -87. Article’s 
@@ -53,23 +53,23 @@ function Work() {
                         <ul>
                             <li>
                                 <a href="https://www.japsambooks.nl/collections/verwacht/products/mothers-milk">
-                                <c>Jap Sam Books</c> - <i>Mothers’s Milk</i>, artist book by Marie Ilse Bourlanges. Editor.</a>
+                                Jap Sam Books - <i><c>Mothers’s Milk</c></i>, artist book by Marie Ilse Bourlanges. Editor.</a>
                             </li>
                             <li>
                                 <a href="https://www.simulacrum.nl/shop/p/the-documenta-issue">
-                                <c>Simulacrum Jrg.30</c> # The documenta issue. Co-curator of Issue and Editor.</a>
+                                Simulacrum Jrg.30 # The documenta issue. Co-curator of Issue and Editor.</a>
                             </li>
                             <li>
                                 <a href="https://www.mottodistribution.com/site/?p=52209">
-                                <c>Simulacrum Jrg. 30</c> # <i>Nightmares</i>. Editor.</a>
+                                Simulacrum Jrg. 30 # <i><c>Nightmares</c></i>. Editor.</a>
                             </li>
                             <li>
                                 <a href="https://www.mottodistribution.com/site/?p=50795">
-                                <c>Simulacrum Jrg. 30</c> # <i>Dirt</i>. Curator and Editor.</a>
+                                Simulacrum Jrg. 30 # <i><c>Dirt</c></i>. Curator and Editor.</a>
                             </li>
                             <li>
                                 <a href="https://www.mottodistribution.com/site/?p=50288">
-                                <c>Simulacrum Jrg. 30</c> # <i>Intimacies</i>. Editor. </a>
+                                Simulacrum Jrg. 30 # <i><c>Intimacies</c></i>. Editor. </a>
                             </li>
                         </ul>
                     <h3>2020</h3>

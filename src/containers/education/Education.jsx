@@ -10,7 +10,7 @@ function Education() {
             <ul>
                 <li>
                     <a href="https://www.kriterion.nl/films/solmatalua-foragers">
-                    <c>Kriterion:</c> IDFA x Simulacrum. Film Screening of <i>Solmatalua</i> (2022) & Foragers (2022). Moderator Q&A.
+                    Kriterion: <c>IDFA x Simulacrum</c>. Film Screening of <i>Solmatalua</i> (2022) & Foragers (2022). Moderator Q&A.
                     </a>
                 </li>
                 <li>
@@ -18,22 +18,22 @@ function Education() {
                 Research mentored by Dr Christa-Maria Lerm-Hayes. 
                 </li>
                 <li>
+                    Museo delle Genti d’Abruzzo - Pescara, Italy. Researcher. 
+                </li>
+                <li>
                     <a href="https://asca.uva.nl/programme/seminars/artistic-research/artistic-research.html">
-                    2022 / present - <c>University of Amsterdam.</c> <i>Artistic Research Research Group</i> - ARRG. Assistant Coordinator to Dr Colin Sterling. 
+                    2022 / present - University of Amsterdam. <i>Artistic Research Research Group</i> - <c>ARRG</c>. Assistant Coordinator to Dr Colin Sterling. 
                     </a>
                 </li>
                 <li>
                     <a href="https://www.kunsthuissyb.nl/eindpresentatie-liza-prins/">
-                    <c>Kunsthuys SYB.</c> <i>Bittersweet</i> - A reading of Tiny Muller by Liza Prins. Production assistant.
+                    Kunsthuys SYB. <i><c>Bittersweet</c></i> - A reading of Tiny Muller by Liza Prins. Production assistant.
                     </a>
                 </li>
                 <li>
                     <a href="https://www.simulacrum.nl/simulacrum/launchingdirt">
-                    <c>De Botanische Tuin Zuidas.</c> Simulacrum # Dirt. Launch event and performance by Mattia Paap. Curator and Production Coordinator.
+                    De Botanische Tuin Zuidas. Simulacrum # <c>Dirt</c>. Launch event and performance by Mattia Paap. Curator and Production Coordinator.
                     </a>
-                </li>
-                <li>
-                    Museo delle Genti d’Abruzzo - Pescara, Italy. Researcher. 
                 </li>
             </ul>
             <h3>2021</h3>
@@ -46,18 +46,18 @@ function Education() {
                 </li>
                 <li>
                     <a href="https://laps-rietveld.nl/?page_id=5">
-                    <c>Gerrit Rietveld Academie:</c> LAPS: Research Institute for Art and Public Space. Making Things Public Group presentation. 
+                    Gerrit Rietveld Academie: <c>LAPS</c>: Research Institute for Art and Public Space. Making Things Public Group presentation. 
                     Production Assistant, Copywriter.
                     </a>
                 </li>
                 <li>
                     <a href="https://www.simulacrum.nl/over">
-                    2021/ present - <c>Simulacrum.</c> Editor and Social Media content creator (2021-2022). Coordinator of Archive and Events (2022-2023).
+                    2021/ present - <c>Simulacrum</c>. Editor and Social Media content creator (2021-2022). Coordinator of Archive and Events (2022-2023).
                     </a>
                 </li>
                 <li>
                     <a href="https://www.nopanic-agency.com/">
-                    <c>No Panic Agency.</c> Contract Editor and Copywriter.
+                    <c>No Panic</c> Agency. Contract Editor and Copywriter.
                     </a>
                 </li>
             </ul>
