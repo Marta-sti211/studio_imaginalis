@@ -29,16 +29,24 @@
     position: absolute; top: 20px; right:30px;
     transition: .2s;
 }
-.header a:hover {
+.header .email a:hover {
     color: var(--color-orange);
     border-bottom: dashed 3px var(--color-blue);
 }
 
 @media (max-width: 800px){
     .header .email a {
-        position: absolute; top: 140px;
-        margin-left: auto;
-        margin-right: auto;
+        position: absolute; top: 10.5rem; left: 5rem;
+        font-family: 'Regular';
+    }
+    .header .email a:hover {
+        color: var(--color-orange);
+        border-bottom: 0px;
+    }
+    .header h1:hover {
+        color: var(--color-orange);
+        padding: 5px;
+        margin: 2px;
     }
 }
 

@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.5de432ea.css",
+    "main.css": "/static/css/main.6d0903a0.css",
     "main.js": "/static/js/main.6040320a.js",
     "static/media/ACaslonPro-Semibold.otf": "/static/media/ACaslonPro-Semibold.b09bbcb7d0b14170b9ca.otf",
     "static/media/ACaslonPro-Regular.otf": "/static/media/ACaslonPro-Regular.0c3c5996df38974367fb.otf",
     "static/media/ACaslonPro-Bold.otf": "/static/media/ACaslonPro-Bold.85d910a63db7903d79c2.otf",
     "static/media/logo_heart.png": "/static/media/logo_heart.5b132eb3795fe1c9df29.png",
     "index.html": "/index.html",
-    "main.5de432ea.css.map": "/static/css/main.5de432ea.css.map",
+    "main.6d0903a0.css.map": "/static/css/main.6d0903a0.css.map",
     "main.6040320a.js.map": "/static/js/main.6040320a.js.map"
   },
   "entrypoints": [
-    "static/css/main.5de432ea.css",
+    "static/css/main.6d0903a0.css",
     "static/js/main.6040320a.js"
   ]
 }

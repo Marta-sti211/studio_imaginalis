@@ -44,6 +44,28 @@ li a c {
     .flex-parent {
         flex-direction: column;
     }
+    h1 {
+        font-size: 3rem;
+        font-family: 'SemiBold';
+      }
+      
+      h2 {
+        font-size: 2.5rem;
+        font-family: 'SemiBold';
+        color: var(--color-Dblue);
+      }
+      
+      h3 {
+        font-size: 2rem;
+        font-family: 'Regular';
+        color: var(--color-Dblue);
+      }
+      
+      ul {
+        font-size: 1.3rem;
+        font-family: 'SemiBold';
+        color: var(--color-blue);
+      }
 }
 
 
