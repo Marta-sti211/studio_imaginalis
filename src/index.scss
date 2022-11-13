@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Myeongjo:wght@400;700&display=swap');
+:root {
+  --font-family: 'Nanum Myeongjo', serif;
+  --color-bg: #FFFF;
+  --color-blue: #072E45;
+  --color-Dblue: #132733;
+  --color-SLblue: #39586a;
+  --color-orange: #ED5D31;
+  --color-Lorange:#da4e23;
+  font-size: 62.5%;
+}
+
+@font-face {
+  font-family: 'Regular';
+  src: url('./assests/fonts/ACaslonPro-Regular.otf');
+}
+
+@font-face {
+  font-family: 'SemiBold';
+  src: url('./assests/fonts/ACaslonPro-Semibold.otf');
+}
+
+@font-face {
+  font-family: 'Bold';
+  src: url('./assests/fonts/ACaslonPro-Bold.otf');
+}
+
+h1 {
+  font-size: 3.5rem;
+  font-family: 'SemiBold';
+}
+
+h2 {
+  font-size: 3rem;
+  font-family: 'SemiBold';
+  color: var(--color-Dblue);
+}
+
+h3 {
+  font-size: 2.5rem;
+  font-family: 'Regular';
+  color: var(--color-Dblue);
+}
+
+ul {
+  font-size: 1.8rem;
+  font-family: 'SemiBold';
+  color: var(--color-blue);
+}
+
+li {
+  padding-top: 0.2rem;
+}
