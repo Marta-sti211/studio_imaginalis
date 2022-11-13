@@ -57,7 +57,7 @@ function Work() {
                             </li>
                             <li>
                                 <a href="https://www.simulacrum.nl/shop/p/the-documenta-issue">
-                                Simulacrum Jrg.30 # The documenta issue. Co-curator of Issue and Editor.</a>
+                                Simulacrum Jrg.30 # <c>The documenta issue</c>. Co-curator of Issue and Editor.</a>
                             </li>
                             <li>
                                 <a href="https://www.mottodistribution.com/site/?p=52209">
