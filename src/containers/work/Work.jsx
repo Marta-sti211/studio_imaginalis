@@ -10,7 +10,7 @@ function Work() {
                     <ul>
                         <li>
                             <a href="https://www.japsambooks.nl/collections/verwacht/products/mothers-milk">
-                                <c>JapSam Books</c> - <i>Mothers’s Milk</i>, artist book by Marie Ilse Bourlanges. ‘Introduction’. Author.
+                                JapSam Books - <i>Mothers’s Milk</i>, artist book by Marie Ilse Bourlanges. ‘Introduction’. Author.
                             </a>
                         </li>
                         <li>
